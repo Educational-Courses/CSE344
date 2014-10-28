@@ -1,3 +1,0 @@
-[Problem 1]
--1 River crosses at least 1 country
--1 Name should be in waterbody
